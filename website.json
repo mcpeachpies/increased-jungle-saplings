@@ -1,0 +1,32 @@
+{
+	"title": "Increased Jungle Saplings",
+	"description": "Increases the drop chance of saplings from Jungle leaves",
+	"youtube": null,
+	"icon": "mcpeachpies_increased_jungle_saplings/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Changes the drop-rates of Jungle Saplings to match those of every other sapling type"
+		},
+		{
+			"label": "Made in collaboration with Noelle"
+		},
+		{
+			"label": "Last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download 1.19 and up",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_jungle_saplings.zip"
+		},
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_increased_jungle_saplings_1_18.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/increased-jungle-saplings"
+		}
+	]
+}
